@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/sitirahmawati/Documents/reactnative/node_modules/react-native/React/Base/RCTManagedPointer.mm \
-  /Users/sitirahmawati/Documents/reactnative/node_modules/react-native/React/Base/RCTManagedPointer.h
+  /Users/sitirahmawati/Documents/cobareactnative/node_modules/react-native/React/Base/RCTManagedPointer.mm \
+  /Users/sitirahmawati/Documents/cobareactnative/node_modules/react-native/React/Base/RCTManagedPointer.h

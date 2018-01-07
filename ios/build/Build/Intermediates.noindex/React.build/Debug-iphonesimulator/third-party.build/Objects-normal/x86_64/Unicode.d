@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/sitirahmawati/Documents/cobatest/node_modules/react-native/third-party/folly-2016.09.26.00/folly/Unicode.cpp \
-  /Users/sitirahmawati/Documents/cobatest/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Unicode.h
+  /Users/sitirahmawati/Documents/cobareactnative/node_modules/react-native/third-party/folly-2016.09.26.00/folly/Unicode.cpp \
+  /Users/sitirahmawati/Documents/cobareactnative/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Unicode.h
